@@ -22,7 +22,7 @@
 
 ---
 
-## 課程進度 (Schedule)
+## Schedule
 
 | Week | Topic |
 | :---: | :---: |
